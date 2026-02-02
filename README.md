@@ -109,6 +109,12 @@ Batch Export          | Download all cropped images as ZIP
 - Keyboard shortcuts improve navigation and workflow  
 
 ------------------------------------------------------------
+🌐 LIVE DEMO
+------------------------------------------------------------
+
+Try the application online: [Pro Image Cropper Plus Live](https://pro-image-cropper-plus.streamlit.app)
+
+------------------------------------------------------------
 👤 ABOUT
 ------------------------------------------------------------
 
@@ -123,3 +129,4 @@ Website / Contact: https://github.com/rogers-cyber
 Distributed as source code.  
 You may use it for personal or educational projects.  
 Redistribution, resale, or commercial use requires explicit permission.
+
